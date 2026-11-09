@@ -26,10 +26,10 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🤟 [**Sign language recognition**](https://github.com/KOBA2008/Reconnaissance-de-la-langue-des-signes-par-vision-par-ordinateur---IndabaxBenin-2026---Workshop) | Three approaches to the same problem, measured with one protocol, failures included. IndabaX Benin 2026 workshop | Python · MediaPipe · PyTorch |
+| 🤟 [**Sign language recognition**](https://github.com/KOBA2008/sign-language-recognition-indabax-2026) | Three approaches to the same problem, measured with one protocol, failures included. IndabaX Benin 2026 workshop | Python · MediaPipe · PyTorch |
 | 🛰️ [**Terra Sentinelle**](https://github.com/KOBA2008/terra-sentinelle) | Sentinel-2 monitoring of transhumance corridors in northern Benin, with offline field validation · [live](https://terra-sentinelle.vercel.app) | TypeScript · Remote sensing · ML |
 | 🏛️ [**SANKOFA**](https://github.com/KOBA2008/sankofa) | AI agent that builds a time machine for any city and separates what is proven from what is imagined · [live](https://sankofa-two-topaz.vercel.app) | Python · LLM agents |
-| 🎶 [**PolyglotSound**](https://github.com/KOBA2008/PolygotSound-) | Turns Fon and Yorùbá songs into singable versions in other languages, with the artist in the loop | Python · Speech · Audio |
+| 🎶 [**PolyglotSound**](https://github.com/KOBA2008/PolyglotSound) | Turns Fon and Yorùbá songs into singable versions in other languages, with the artist in the loop | Python · Speech · Audio |
 | 🏎️ [**Gesture Hero**](https://github.com/KOBA2008/gesture-hero) | Drive a racing game with hand gestures only. Arduino Days 2026 hackathon · [docs](https://gesture-hero-original.vercel.app) | C++ · Arduino · Computer vision |
 | 🛠️ [**WADJO**](https://github.com/KOBA2008/Hackthon---Cursor---) | Connects skilled workers and clients in West Africa · [live](https://wadjo-app.vercel.app) | TypeScript · React |
 
